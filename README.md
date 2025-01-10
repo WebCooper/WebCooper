@@ -2,6 +2,6 @@
 - 👀 I’m interested in solving real-world problems using technology, building innovative web and mobile apps, and exploring IoT solutions.  
 - 🌱 I’m currently learning advanced concepts in Computer Engineering and exploring new tools and frameworks in full-stack development.  
 - 💞️ I’m looking to collaborate on impactful projects that create value and showcase creative solutions, especially in web development, mobile apps, or IoT innovations.  
-- 📫 How to reach me: [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/janitha-karunarathna/)) or [Email](mailto:senani.online@gmail.com)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/janitha-karunarathna/) or [Email](mailto:senani.online@gmail.com)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I thrive on turning ideas into reality and enjoy the journey of learning, building, and innovating as a solopreneur.
